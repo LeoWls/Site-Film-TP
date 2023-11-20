@@ -1,0 +1,36 @@
+footer {
+    background-color: #4D4A3F;
+    color: #fffae1;
+    padding: 20px 0 10px 0;
+    text-align: center;
+}
+
+form {
+    margin: 0 auto;
+    max-width: 900px;
+}
+
+input,
+textarea,
+button {
+    border: none;
+    width: 55%;
+    padding: 15px 10px;
+    margin: 2px 0;
+    font-size: 1.2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 8px;
+}
+
+textarea {
+    height: 120px;
+}
+
+button {
+    font-size: 1.5em;
+    background-color: #FBFAE7;
+}
+
+body {
+    background-color: #4D4A3F;
+}
